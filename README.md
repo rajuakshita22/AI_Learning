@@ -1,2 +1,2 @@
-# Alarm-Overload
-A personal project to solve Schneider Electric's problem of alarm overload
+# AI_Learning
+My personal journey in learning about AI 

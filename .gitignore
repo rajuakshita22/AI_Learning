@@ -208,5 +208,7 @@ __marimo__/
 
 # Ignore virtual environment
 myenv/
+projects/Kaggle-hotel
 #Ignore environment variables file
 .env
+

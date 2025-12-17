@@ -211,4 +211,6 @@ myenv/
 projects/Kaggle-hotel
 #Ignore environment variables file
 .env
-
+projects/llm-basics/env-llm/
+# Ignore cache 
+projects/llm-basics/cache

@@ -215,3 +215,11 @@ projects/llm-basics/env-llm/
 # Ignore cache 
 projects/llm-basics/cache
 /.vscode
+
+projects/llm-2-intermediate/cache
+projects/llm-2-intermediate/env-llm-int
+projects/llm-2-intermediate/.env
+
+projects/llm-ops/cache
+projects/llm-ops/.env
+projects/llm-ops/env-llm-ops310
